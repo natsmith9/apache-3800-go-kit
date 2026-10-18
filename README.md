@@ -12,18 +12,19 @@ Designed with a modular evolution path—starting as a robust core dual-VFO fiel
 
 ## 🛠 Phased Bill of Materials (BOM) & Roadmap
 
-### Phase 1: Core Dual-VFO Field Station (Current Build)
-*Focuses on a self-contained voice and 1200-baud BLE packet/APRS setup using the primary mobile transceiver and a hardware Bluetooth TNC.*
+### 🛠 Phase 1: Core Dual-VFO Field Station
+*Focuses on a self-contained voice and 1200-baud BLE packet/APRS setup with integrated panel audio routing.*
 
 | Qty | Item Description | Hardware / Specifications |
 |---|---|---|
 | 1 | Dual-Band VHF/UHF Mobile Deck | Yaesu FTM-150RASP (55W/50W Dual-Receive) |
 | 1 | Hardware Bluetooth/USB KISS TNC | Mobilinkd TNC4 TNC Engine |
 | 1 | 6-Pin Mini-DIN TNC Cable | Mobilinkd MiniDIN-6 Cable Set (1200/9600 baud) |
-| 1 | Station Power Source | 12V 15Ah LiFePO4 Battery Pack (e.g., Amped Outdoors / Bioenno) |
+| 1 | Station Power Source | 12V 15Ah LiFePO4 Battery Pack |
 | 1 | DC Fuse Distribution Block | Blue Sea Systems 5035 ST Blade 6-Circuit Fuse Block |
 | 1 | Diagnostics & USB Charging | 12V Dual USB-C PD Socket + LED Voltmeter (w/ Cutoff Switch) |
-| 1 | Internal Coaxial Jumper | 2ft or 3ft Double-Shielded RG-400 PL-259 Jumper |
+| 1 | Audio Routing Panel | Panel-Mount 3.5mm External Speaker & Headphone Jacks |
+| 1 | Internal Coaxial Jumper | 2ft Double-Shielded RG-400 PL-259 Jumper |
 | A/R | Power Distribution Harness | 12/14 AWG Stranded Wire & Genuine Anderson Powerpoles (30A) |
 | 1 | Panel Chassis Top Plate | Custom Cut 1/4" ABS Sheet |
 | 1 | Bulkheads & Enclosure Hardware | SO-239 Bulkhead, 12V 40mm Exhaust Fan & Guard, RJ-45 Mic Pass-Through |
