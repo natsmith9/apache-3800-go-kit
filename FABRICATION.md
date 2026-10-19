@@ -59,19 +59,19 @@ The equipment plate is cut from a **12" × 16" sheet of 1/4" (6 mm) Haircell-Tex
 
 | Status | Item Description | Source / Spec | Notes |
 |:---:|---|---|---|
-| [x] | Apache 3800 Weatherproof Case | Harbor Freight | Base shell on hand[cite: 1] |
-| [x] | 12/14 AWG Wire & 30A Powerpoles | Standard Stock | DC harness materials on hand[cite: 2] |
-| [ ] | Yaesu FTM-150RASP Transceiver | Ham Radio Outlet / DXE | Dual-band 55W/50W deck (~$297)[cite: 1, 2] |
-| [ ] | Mobilinkd TNC4 + Mini-DIN-6 Cable | Mobilinkd | Hardware BLE KISS TNC (~$168–$172)[cite: 2] |
-| [x] | 12V 15Ah LiFePO4 Battery | Amped Outdoors / Bioenno | Sub-floor battery power (~$100)[cite: 2] |
-| [x] | Blue Sea 5035 6-Way Blade Fuse Block | Marine Supply | Common ground bus distribution (~$38)[cite: 2] |
-| [x] | 12V Dual USB-C PD + Voltmeter Socket | Amazon | 1-1/8" cylindrical socket w/ cutoff switch (~$13)[cite: 1, 2] |
-| [x] | 3.5mm Switching Audio Jacks | Electronics Supply | Headphone & external speaker panel routing (~$8)[cite: 1, 2] |
-| [ ] | Dual WW / Red 12V LED Strip + SPDT Toggle | Amazon / Marine Supply | Switchable night-vision illumination (~$15)[cite: 1, 2] |
-| [ ] | Illuminated 12V Latching Push Buttons | Baomain / Amazon | Rectangular console controls (~$12)[cite: 1] |
-| [x] | 2ft RG-400 Coax Jumper + SO-239 Bulkhead | Shireen / DX Engineering | Double-shielded PTFE feedline (~$33)[cite: 1, 2] |
-| [ ] | 3D-Printed N0CTL Perimeter Frame | Gwinnett Library Makerspace | 4-piece PETG bracket + M3 brass inserts[cite: 3] |
-| [ ] | 12" × 16" × 1/4" Haircell ABS Sheet | Duco / OnlineMetals | Faceplate blank, 40mm fan & RJ-45 coupler (~$37)[cite: 1, 2] |
+| [x] | Apache 3800 Weatherproof Case | Harbor Freight | Base shell on hand |
+| [x] | 12/14 AWG Wire & 30A Powerpoles | Standard Stock | DC harness materials on hand |
+| [ ] | Yaesu FTM-150RASP Transceiver | Ham Radio Outlet / DXE | Dual-band 55W/50W deck (~$297) |
+| [ ] | Mobilinkd TNC4 + Mini-DIN-6 Cable | Mobilinkd | Hardware BLE KISS TNC (~$168–$172) |
+| [x] | 12V 15Ah LiFePO4 Battery | Amped Outdoors / Bioenno | Sub-floor battery power (~$100) |
+| [x] | Blue Sea 5035 6-Way Blade Fuse Block | Marine Supply | Common ground bus distribution (~$38) |
+| [x] | 12V Dual USB-C PD + Voltmeter Socket | Amazon | 1-1/8" cylindrical socket w/ cutoff switch (~$13) |
+| [x] | 3.5mm Switching Audio Jacks | Electronics Supply | Headphone & external speaker panel routing (~$8) |
+| [ ] | Dual WW / Red 12V LED Strip + SPDT Toggle | Amazon / Marine Supply | Switchable night-vision illumination (~$15) |
+| [ ] | Illuminated 12V Latching Push Buttons | Baomain / Amazon | Rectangular console controls (~$12) |
+| [x] | 2ft RG-400 Coax Jumper + SO-239 Bulkhead | Shireen / DX Engineering | Double-shielded PTFE feedline (~$33) |
+| [ ] | 3D-Printed N0CTL Perimeter Frame | Gwinnett Library Makerspace | 4-piece PETG bracket + M3 brass inserts |
+| [ ] | 12" × 16" × 1/4" Haircell ABS Sheet | Duco / OnlineMetals | Faceplate blank, 40mm fan & RJ-45 coupler (~$37) |
 
 ---
 
